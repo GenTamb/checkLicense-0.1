@@ -1,0 +1,39 @@
+#body-color{ background-color:#FFFFFF; } 
+#menuUSERfield{
+position:absolute;
+top:10px;
+right:10px;
+width:30px;
+}
+
+#MENUscegli{
+
+border:2px solid red;
+height:20px;
+width:193px;
+}
+
+#fieldSTATO{
+background-color:#fffeac;
+}
+#buttonVAIadd{
+margin:5px;
+height:20px;
+width:75px;}
+#buttonVAIlicense{
+height:20px;
+width:75px;}
+#buttonVaiSearchConsole{
+margin-left:5px;
+width:75px;
+height:20px;
+
+}
+#buttonLogOut{
+margin-left:5px;
+height:20px;
+width:75px;}
+#menuBUTTON{
+border:1px solid green;}
+#uploadFILE{
+margin-bottom:5px;}
